@@ -43,6 +43,6 @@ Se todos os dados estiverem preenchidos corretamente, ao clicar em "concluir" a 
 Ao recerregar a página, abre um alerta indicando que alguns dados podem ser perdidos caso o formulário não tenha sido enviado ainda.
 
 Links de Pesquisa:
-https://www.gama.academy/ - Validador de CPF
-https://viacep.com.br/ - Autocompletar endereço pelo CEP
-
+- https://www.gama.academy/ - Validador de CPF;
+- https://viacep.com.br/ - Autocompletar endereço pelo CEP;
+- https://www.w3schools.com/ .
