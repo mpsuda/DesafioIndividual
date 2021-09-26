@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(2, 2, 36);
+    font-family: sans-serif;
+    font-size: 16px;
+    color: rgb(60, 60, 60);
+    font-weight: bold;
+    margin: 40px;
+    border: 8px solid orangered;
+    padding-bottom: 20px;
+    justify-content: center;
+}
+
+main{
+    position: relative;
+    background-color: whitesmoke;
+    width: fit-content;
+    padding: 20px;
+    border-radius: 10%;
+    box-shadow: 5px 5px 12px rgba(0, 0, 0, 0.3);
+}
+
+.container{
+    margin-top: 1%;
+    left: 50%;
+    transform: translate(-50%);   
+}
+
+p, #titulo{
+    color: rgb(50, 50, 50);
+    text-align: center;
+    margin-top: 16px;
+}
+
+main input[type=text],
+main input[type=email],
+main input[type=date],
+select{
+    border: none;
+    background-color: #d0dde470;
+    cursor: text;
+    border-radius: 13px;
+    padding: 6px;
+    font-size: 15px;
+    font-family: sans-serif;
+    outline: none;
+}
+
+.linha1{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-row: auto;
+    grid-gap: 4px;
+    margin: 16px;
+}
+
+.linha2{
+    display: grid;
+    grid-template-columns: 1fr 2fr 2fr;
+    grid-row: auto;
+    grid-gap: 4px;
+    margin: 16px;
+}
+
+.linha3{
+    display: grid;
+    grid-template-columns: 2fr 1fr 2fr;
+    grid-row: auto;
+    grid-gap: 4px;
+    margin: 16px;
+}
+
+.linha4{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-row: auto;
+    grid-gap: 4px;
+    margin: 16px;
+}
+
+.linha5{
+    display: grid;
+    grid-template-columns: 1fr 2fr 3fr;
+    grid-row: auto;
+    grid-gap: 4px;
+    margin: 16px;
+}
+
+.linha6{
+    display: grid;
+    grid-template-columns: 2fr 1fr 3fr;
+    grid-row: auto;
+    grid-gap: 4px;
+    margin: 16px;
+}
+
+.linha7{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-row: auto;
+    grid-gap: 4px;
+    margin: 16px;
+}
+
+.campo{
+    display: grid;
+    padding: 6px;
+}
+
+.campo label{
+    margin-bottom: 4px;
+    display: block;
+}
+
+.campo input::placeholder{
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.campo input:focus, .campo select:focus{
+    background: #7e8c9470;
+}
+
+.required::after{
+    content:"*";
+}
+
+.botao{
+    background-color: #01131d;
+    padding: 0.5em;
+    font: 1em sans-serif;
+    font-weight: bold;
+    color: whitesmoke;
+    cursor: pointer;
+    border: none;
+    border-radius: 12px;
+    width: 50%;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+.botao:hover {
+    background: #305c6e; 
+    transition: 0.3s;
+}
