@@ -44,5 +44,6 @@ Ao recerregar a página, abre um alerta indicando que alguns dados podem ser per
 
 Links de Pesquisa:
 - https://www.gama.academy/ - Validador de CPF;
+- https://github.com/rafaballerini/Formulario.git - Criação de formulário simples em HTML e CSS;
 - https://viacep.com.br/ - Autocompletar endereço pelo CEP;
 - https://www.w3schools.com/
