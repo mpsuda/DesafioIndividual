@@ -2,7 +2,7 @@ Desafio Individual Formação Itaú Tech
 
 Formulário de Cadastro Pessoal
 
-Acesso: (Netfily)
+Acesso: https://desafioindividual-itautech-gama.netlify.app/
 
 GitHub: https://github.com/mpsuda
 
