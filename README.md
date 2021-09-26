@@ -4,7 +4,7 @@ Formulário de Cadastro Pessoal
 
 Acesso: (Netfily)
 
-Domínio - Modelagem de Dados:
+GitHub: https://github.com/mpsuda
 
 LinkedIn: https://www.linkedin.com/in/marcos-suda-297101a/
 
@@ -45,4 +45,4 @@ Ao recerregar a página, abre um alerta indicando que alguns dados podem ser per
 Links de Pesquisa:
 - https://www.gama.academy/ - Validador de CPF;
 - https://viacep.com.br/ - Autocompletar endereço pelo CEP;
-- https://www.w3schools.com/ .
+- https://www.w3schools.com/
